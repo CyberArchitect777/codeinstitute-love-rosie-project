@@ -287,3 +287,8 @@ footer {
     height: 100%;
     line-height: 23px;
 }
+
+.progress-section {
+    padding: 40px 20px 40px 70px;
+    /*margin: 40px 20px; Code Institute code replaced by code above as it works better */
+}
