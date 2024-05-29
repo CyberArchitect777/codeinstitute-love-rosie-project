@@ -36,7 +36,10 @@
 
 /* ------------------------------- Special paddings/margins/text */
 
-h1, h2, h3, h4 {
+h1,
+h2,
+h3,
+h4 {
     margin: 0;
 }
 
@@ -64,7 +67,8 @@ h1, h2, h3, h4 {
     float: none;
 }
 
-.history-heading, .section-heading {
+.history-heading,
+.section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
@@ -235,12 +239,14 @@ footer {
     clear: both;
 }
 
-.personal-info-item .key, .personal-info-item .value {
+.personal-info-item .key,
+.personal-info-item .value {
     padding-right: 8px;
     display: inline-block;
 }
 
-.personal-info-item .key p, .personal-info-item .value p {
+.personal-info-item .key p,
+.personal-info-item .value p {
     margin: 0;
 }
 
